@@ -12,7 +12,7 @@ const nodemailer = require("nodemailer");
 const mongodb = require("mongodb");
 const session = require("express-session"); 
 const mongodbSession = require("connect-mongodb-session")(session);
-const PORT = 6111;
+//const PORT = 6111;
 
 
 //create the mongodb client
